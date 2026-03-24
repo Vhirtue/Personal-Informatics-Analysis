@@ -1,0 +1,12 @@
+Date,Week,Location,Duration (min),% Completed,Sleep (hrs)
+Tue,1,School,120,85,8.2
+Sat,1,Home,120,65,7.9
+Mon,2,School,120,90,8
+Tue,2,Home,120,70,6.8
+Wed,2,School,120,88,7.2
+Mon,3,School,120,91,7.1
+Tue,3,Home,120,73,7.9
+Wed,3,School,120,89,7.3
+Mon,4,School,120,92,8.2
+Tue,4,Home,120,79,8
+Wed,4,School,120,90,8.4
